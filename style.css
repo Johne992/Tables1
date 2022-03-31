@@ -1,0 +1,144 @@
+body{
+    font-size: 24px;
+}
+p{font-size:16px;}
+
+.borders{
+ border: dotted; 
+}
+
+/*.border2{
+  border: double;
+  } */
+
+/* Styling for links */
+a {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: blue;
+}
+
+#johndiv {
+  /*visibility:hidden;
+  display:none;*/
+  background-color:chartreuse;
+  color:grey;  
+  border:groove;
+  border-radius: 10px;
+  float: left;
+}
+
+.jdivs{
+  height: 300px;
+  width:300px;
+  color:grey;  
+  border:groove hsla(38, 100%, 50%) 10px;
+  border-radius: 50px;
+  padding: 40px;
+  margin: 40px 50px 30px;
+  background-color: purple;
+  clear: right;
+  float: left;
+ /* position: absolute;
+ top: 40px; left: 40px;
+  */
+ position:relative;
+  
+  
+}
+
+/* Postion Relative start */
+
+#jdiv2{
+  background-color: pink;
+  border:dotted;
+  position: absolute;
+  /* bottom:0; */
+  left: 50%;
+}
+
+.jfloat{
+  float: bottom;
+  padding: bottom 12px;
+  background: red;
+
+}
+
+#Olurotimi {color:rgb(255, 72, 0);
+background-color:rgba(74, 5, 202, 0.719);
+border:outset;
+border-radius:1000px;
+padding: 40px;
+margin: 40px 50px 30px;
+float: top;}
+
+#Talal {background-color: cornflowerblue;
+color: ghostwhite; 
+border:groove;
+border-radius:20px;
+}
+
+.TalalMaybe-_-{
+display:inline-block;
+height:30px; 
+width:30px;
+color: rgb(207, 103, 103);
+border: groove hsla(189, 60%, 74%)10px;
+border-radius: 20px;
+padding: 40px;
+margin: 40px 50px 30px;
+}
+
+#Eisa {background-color:darkblue; 
+color: gold;
+border:outset;
+border-radius:100000000px;
+height: 40px;
+width: 40px;
+padding: 50px;
+}
+.eisapissa {
+display: inline-block;
+height:100px;
+width: 50px;
+border:olivedrab;
+border-radius:45px;
+padding: 25px;
+position: relative;
+}
+
+.efloat{
+  float: left;
+  padding:1px;
+  background: rgb(7, 30, 235);
+}
+
+
+#Saeed {background-color:indianred;
+color:Navajowhite;
+border:groove white (38,100%,50%) 10px;
+border-radius:5px;
+display:inline-block;
+height:300px;
+width:300px;
+padding:40;
+margin:40px 50px 30px;
+}
+.Saeeddivs{
+background-color:indianred;
+color:Navajowhite;
+border:groove white (38,100%,50%) 10px;
+border-radius:5px;
+display:inline-block;
+height:300px;
+width:300px;
+padding:40;
+margin:40px 50px 30px;
+}
